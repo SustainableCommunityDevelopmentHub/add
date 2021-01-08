@@ -1,7 +1,7 @@
 {
-  "name": "Next.js PWA Firebase",
-  "short_name": "Next.js PWA",
-  "description": "Next.js serverless PWA with Firebase and React Hooks",
+  "name": "Peacewater Technlogy Assessment",
+  "short_name": "Peacewater",
+  "description": "Begin your journey of evaluating water system design options most suitable to your location, climate, and community needs",
   "theme_color": "#663399",
   "background_color": "#663399",
   "icons": [
