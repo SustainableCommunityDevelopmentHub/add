@@ -1,0 +1,31 @@
+{
+  "name": "nextjs-pwa-firebase-boilerplate",
+  "description": "Next.js serverless PWA with Firebase and React Hooks",
+  "version": "1.12.10",
+  "author": "Tom Söderlund <tom@tomsoderlund.com>",
+  "license": "ISC",
+  "scripts": {
+    "dev": "next dev -p 3004",
+    "vercel": "echo 'Running as Vercel serverless'; vercel dev --listen 3004",
+    "build": "next build",
+    "start": "next start -p 3004",
+    "test": "echo 'Running Standard.js and Jasmine unit tests...\n' && yarn lint && yarn unit",
+    "unit": "jasmine",
+    "lint": "standard",
+    "fix": "standard --fix",
+    "deploy": "vercel --prod",
+    "v+": "yarn version --patch",
+    "v++": "yarn version --minor"
+  },
+  "dependencies": {
+    "firebase": "^7.15.5",
+    "next": "latest",
+    "next-offline": "^5.0.2",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-toastify": "^6.0.8"
+  },
+  "devDependencies": {
+    "standard": "^14.3.4"
+  }
+}
