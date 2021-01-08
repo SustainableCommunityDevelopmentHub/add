@@ -1,3 +1,5 @@
+## PEACEWATER PWA APP
+
 # Next.js serverless PWA with Firebase and React Hooks
 
 ![nextjs-pwa-firebase-boilerplate demo on phone](docs/github_preview.jpg)
