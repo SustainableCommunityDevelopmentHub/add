@@ -38,8 +38,8 @@ function ArticleListPage ({ articles }) {
         <a>Click here to log in</a>
       </Link>
 
-      <h2>Add to Home Screen</h2>
-      <p>You can add this to your Home Screen on iOS/Android, it should then start full screen.</p>
+      <h2>Techology assessment modell</h2>
+      <p>Examine your project with different system selection criteria.</p>
 
       <h2>Source code</h2>
       <p>Get the <a target='_blank' rel='noopener noreferrer' href='https://github.com/tomsoderlund/nextjs-pwa-firebase-boilerplate'>source code for nextjs-pwa-firebase-boilerplate</a></p>
