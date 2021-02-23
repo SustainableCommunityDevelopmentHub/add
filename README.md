@@ -1,4 +1,6 @@
-## PEACEWATER PWA APP
+## ECHO PEACEWATER Progressive Web App template.
+
+## APP
 
 # Next.js serverless PWA with Firebase and React Hooks
 
@@ -31,7 +33,9 @@ _Lightning fast, all JavaScript._
 
 ## Demo
 
-See [**nextjs-pwa-firebase-boilerplate** running on Vercel/Zeit Now here](https://nextjs-pwa-firebase-boilerplate.vercel.app/).
+
+
+See [source](https://nextjs-pwa-firebase-boilerplate.vercel.app/).
 
 ![nextjs-pwa-firebase-boilerplate demo on phone](docs/demo.jpg)
 
