@@ -27,13 +27,13 @@ function ArticleListPage ({ articles }) {
         <ArticleList />
       </ArticlesContextProvider>
 
-      <h2>Routing</h2>
+      
+      <!--<h2>Routing</h2>
       <p>Current query: <strong>{JSON.stringify(query)}</strong></p>
-
       <h2>Log in (using Firebase Authentication)</h2>
       {user && (
         <p>You are logged in as <strong>{user.email}</strong></p>
-      )}
+      )}-->
       <Link href='/login'>
         <a>Click here to log in</a>
       </Link>
